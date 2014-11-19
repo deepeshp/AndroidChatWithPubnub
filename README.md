@@ -7,3 +7,8 @@ In order to use the app following thing needs to be done(app UI is not even fine
 2. From context menu click subscribe ..it will give a toast acknowledgement
 3. Now from the same context menu click GCM and then click SetSenderId then click RegisterGCM and then click add channel
 4. THat's it your app is good to go.
+
+Need to modify lot of things like :
+1. UI
+2. Message fetching from pubnub apis and acknowledgement
+3. and need to have automatic subscription and gcm registration.
